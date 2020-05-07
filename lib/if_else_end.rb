@@ -1,3 +1,7 @@
 k = Time.now 
 k2 = k.to_i 
-puts k2
+if k2 %2 = 0 
+  puts "Even"
+else 
+  puts "Odd"
+end 

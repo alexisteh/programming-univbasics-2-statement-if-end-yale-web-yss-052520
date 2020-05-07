@@ -1,7 +1,7 @@
 k = Time.now 
 k2 = k.to_i 
 if k2 % 2 == 0 
-  puts "Even"
+  puts "Even!"
 else 
-  puts "Odd"
+  puts "Odd!"
 end 

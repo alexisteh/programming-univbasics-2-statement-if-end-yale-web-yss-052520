@@ -1,2 +1,3 @@
 k = Time.now 
-puts k
+k2 = k.to_i 
+puts k2
